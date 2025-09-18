@@ -1,8 +1,8 @@
 To run a simple flask app using docker
 First create a directory and place the files inside it <br>
-
- mkdir flask-docker-app 
- cd flask-docker-app   
+<br>
+ mkdir flask-docker-app <br>
+ cd flask-docker-app   <br>
 
 <br>
 create a app.py file
