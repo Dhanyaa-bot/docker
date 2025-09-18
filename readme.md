@@ -22,7 +22,7 @@ Run the container
 <br>
 docker run -p 5000:5000 flask-app
 <br>
-Now open your browser → http://localhost:5000
+Now open your browser → http://localhost:5000<br>
 ✅ You’ll see: Hello from Docker Flask App!
 
 
